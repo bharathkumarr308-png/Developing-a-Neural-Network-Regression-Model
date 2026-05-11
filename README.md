@@ -1,6 +1,4 @@
 # Developing a Neural Network Regression Model
-# Date:
-
 ## AIM
 To develop a neural network regression model for the given dataset.
 
